@@ -58,8 +58,8 @@ function handleTweetBtnClick(){
 
     if(tweetInput.value){
         tweetsData.unshift({
-            handle: `@Scrimba`,
-            profilePic: `images/scrimbalogo.png`,
+            handle: `@Adekola Adelana`,
+            profilePic: `images/ade.jpg`,
             likes: 0,
             retweets: 0,
             tweetText: tweetInput.value,
